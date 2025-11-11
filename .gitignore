@@ -1,0 +1,43 @@
+# Flutter
+build/
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Hive
+*.hive
+
+# Pub
+.pub-cache/
+
+# Test
+coverage/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.swp
+
+# Android
+android/app/src/main/res/values/google-services.json
+android/app/google-services.json
+
+# iOS
+ios/Flutter/Flutter-Debug.xcconfig
+ios/Flutter/Flutter-Release.xcconfig
+
+# Web
+web/index.html.bak
+
+# Nested project (if any)
+implementasi-hive-SQLite/
